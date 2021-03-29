@@ -26,5 +26,6 @@ Implement the **myAtoi**(string s) function, which converts a string to a 32-bit
 <br/>
 
 *Note:*
+
 Only the space character ' ' is considered a whitespace character.
 Do not ignore any characters other than the leading whitespace or the rest of the string after the digits.
