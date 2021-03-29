@@ -23,8 +23,8 @@ Implement the **myAtoi**(string s) function, which converts a string to a 32-bit
    * Specifically, integers less than -231 should be clamped to -231, and integers greater than 231 - 1 should be clamped to 231 - 1.
 
 6. Return the integer as the final result.
+<br/>
 
-
->Note:
+*Note:*<br/>
 Only the space character ' ' is considered a whitespace character.
 Do not ignore any characters other than the leading whitespace or the rest of the string after the digits.
